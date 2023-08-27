@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "286222723396",
+    "firebase_url": "https://standiometer-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "standiometer",
+    "storage_bucket": "standiometer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286222723396:android:4711829026d2c2277f0f11",
+        "android_client_info": {
+          "package_name": "com.baaba.b_height"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286222723396-udnc798gek1ismlulv3a2qtlpvkainh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRjr6k51bXGt1oxqH4IZ2s8USPMRnYRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286222723396-udnc798gek1ismlulv3a2qtlpvkainh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286222723396:android:bdf1055af304439a7f0f11",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286222723396-udnc798gek1ismlulv3a2qtlpvkainh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRjr6k51bXGt1oxqH4IZ2s8USPMRnYRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286222723396-udnc798gek1ismlulv3a2qtlpvkainh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
